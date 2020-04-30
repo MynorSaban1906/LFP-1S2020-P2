@@ -1,0 +1,10 @@
+E>T EP
+EP>+ T EP
+EP>- T EP
+EP>epsilon
+T>F TP
+TP>* F TP
+TP>/ F TP
+TP>epsilon
+F>numero
+F>cadena

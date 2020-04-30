@@ -1,0 +1,5 @@
+L>a M c
+M>a M c
+M>b N c
+N>b N c
+N>epsilon
